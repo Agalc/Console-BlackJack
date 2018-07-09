@@ -1,0 +1,12 @@
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.dll.config
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.dll
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\bin\Debug\BlackJack.DAL.pdb
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csproj.CopyComplete
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.dll
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.pdb
+C:\Users\Anuitex-5\Source\Repos\BlackJack\BlackJack.DAL\obj\Debug\BlackJack.DAL.csprojResolveAssemblyReference.cache
